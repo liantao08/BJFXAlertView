@@ -595,6 +595,7 @@
 				18103BE01E9DBEF3003C54A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18103BE11E9DBEF3003C54A2 /* Build configuration list for PBXNativeTarget "BJFXAlertViewTests" */ = {
 			isa = XCConfigurationList;
@@ -603,6 +604,7 @@
 				18103BE31E9DBEF3003C54A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18103BE41E9DBEF3003C54A2 /* Build configuration list for PBXNativeTarget "BJFXAlertViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -611,6 +613,7 @@
 				18103BE61E9DBEF3003C54A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

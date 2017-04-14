@@ -1,9 +1,9 @@
 //
 //  BJFXAlertView.m
-//  DandelionBank
+//  BJFXAlertView
 //
-//  Created by fengxiangkeji on 2017/2/7.
-//  Copyright © 2017年 fengunion Ltd. All rights reserved.
+//  Created by Apple on 2017/4/12.
+//  Copyright © 2017年 Apple. All rights reserved.
 //
 
 #import "BJFXAlertView.h"
