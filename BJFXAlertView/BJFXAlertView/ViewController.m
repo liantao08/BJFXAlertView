@@ -36,6 +36,8 @@
 //弹出提示框
 - (void)clickShow {
     
+    [BJFXAlertView showAlertWithTitle:@"提示" message:@"我是一个alertView"];
+    
     BJFXAlertView * alertView = [BJFXAlertView AlertWithTitle:@"提示" message:@"请选择"];
     [alertView addButtonTitle:@"sure" action:^{
         
